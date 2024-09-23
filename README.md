@@ -2,6 +2,8 @@
 
 Este script conta com Aimlock para travar a mira automaticamente sobre os inimigos, além de um modo exclusivo para a arma Vandal. Nesta versão, você pode configurar a tecla de disparo para ser a tecla `'P'`, como nas versões anteriores do RubiAim, ou qualquer outra tecla de sua preferência.
 
+![preview](Resources/RubiAIMV1_Remake.png)
+
 ## Como utilizar
 
 1. **Baixe e execute o script** diretamente do repositório.
@@ -28,3 +30,5 @@ Este script conta com Aimlock para travar a mira automaticamente sobre os inimig
 ### Exibição da tecla 'P' dentro do jogo:
 
 Dentro do jogo, a tecla `'P'` aparecerá vinculada na seção de **Atalhos de Teclado**, ao lado do botão esquerdo do mouse para a função de **disparar/atirar**. Essa tecla será ativada para o disparo quando utilizada em conjunto com o script RubiAim, garantindo precisão extra no Aimlock.
+
+![preview](Resources/P.png)
